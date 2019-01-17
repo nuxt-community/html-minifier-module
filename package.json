@@ -1,0 +1,47 @@
+{
+  "name": "@nuxtjs/html-minifier",
+  "version": "0.1.0",
+  "description": "",
+  "license": "MIT",
+  "contributors": [
+    "pimlie <pimlie@hotmail.com>"
+  ],
+  "main": "lib/module.js",
+  "repository": "https://github.com/nuxt-community/html-minifier-module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "dev": "test/fixture",
+    "lint": "eslint lib test",
+    "test": "jest test",
+    "release": "yarn lint && yarn test && standard-version"
+  },
+  "files": [
+    "lib"
+  ],
+  "dependencies": {
+    "consola": "^2.3.2",
+    "figures": "^2.0.0",
+    "html-minifier": "^3.5.21"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config": "^0.0.1",
+    "babel-eslint": "^10.0.1",
+    "codecov": "3.1.0",
+    "eslint": "^5.10.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jest": "^22.1.2",
+    "eslint-plugin-node": "^8.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "get-port": "^4.1.0",
+    "jest": "23.6.0",
+    "nuxt-edge": "^2.4.0-25794725.9eab5589",
+    "request-promise-native": "^1.0.5",
+    "standard-version": "4.4.0"
+  }
+}
