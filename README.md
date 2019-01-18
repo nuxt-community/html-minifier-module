@@ -49,6 +49,10 @@ If `false` then every url which generated an error wont be minified in future re
 
 If `true` then the html which failed to minimize is also logged
 
+## HTML Minifier options
+
+This module uses the [`build.html.minify`](https://nuxtjs.org/api/configuration-build#html-minify) property for configuring html minifier
+
 ## Development
 
 - Clone this repository
