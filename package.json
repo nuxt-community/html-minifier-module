@@ -42,6 +42,6 @@
     "jest": "24.7.1",
     "nuxt-edge": "^2.4.0-25811407.6d8da0ed",
     "request-promise-native": "^1.0.7",
-    "standard-version": "4.4.0"
+    "standard-version": "5.0.2"
   }
 }
