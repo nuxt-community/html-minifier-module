@@ -22,7 +22,7 @@
   ],
   "dependencies": {
     "consola": "^2.15.0",
-    "figures": "^3.2.0",
+    "figures": "^5.0.0",
     "html-minifier": "^4.0.0"
   },
   "devDependencies": {
