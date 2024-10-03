@@ -21,21 +21,21 @@
     "lib"
   ],
   "dependencies": {
-    "consola": "^2.15.0",
+    "consola": "^2.15.3",
     "figures": "^3.2.0",
     "html-minifier": "^4.0.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^1.1.2",
     "babel-eslint": "^10.1.0",
-    "codecov": "3.8.1",
+    "codecov": "3.8.3",
     "eslint": "^6.8.0",
     "eslint-config-standard": "^13.0.1",
     "eslint-loader": "^2.2.1",
-    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-jest": "^22.21.0",
     "eslint-plugin-node": "^9.2.0",
-    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-promise": "^4.3.1",
     "eslint-plugin-standard": "^4.1.0",
     "eslint-plugin-vue": "^5.2.3",
     "get-port": "^5.1.1",
