@@ -21,7 +21,7 @@
     "lib"
   ],
   "dependencies": {
-    "consola": "^2.15.0",
+    "consola": "^3.4.2",
     "figures": "^3.2.0",
     "html-minifier": "^4.0.0"
   },
