@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository is archived. `@nuxtjs/html-minifier` was built for Nuxt 2, which reached end of life on June 30, 2024.
+
 :warning: This module is experimental, try it and let us know how it performs
 
 # @nuxtjs/html-minifier
